@@ -9,7 +9,7 @@ To get started with this project, you'll need to have Python 3.6 or later instal
 Once you have Python installed, you can clone this repository and install the required packages using pip:
 
 ```bash
-git clone https://github.com/yourusername/machine-learning-app.git
+[https://github.com/itz-ivision/django_churn_model.git](https://github.com/itz-ivision/django_churn_model.git)
 cd machine-learning-app
 pip install -r requirements.txt
 ```
